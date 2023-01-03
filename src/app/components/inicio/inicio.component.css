@@ -1,0 +1,38 @@
+.fondoItem {
+    background-color: #ff111328;
+    height: 10em;
+    border-radius: 1em;
+    color: white;
+}
+.sexo {
+    font-size: 3em;
+}
+
+.estiloNumero {
+    font-size: 3em;
+    font-weight: 800;
+    margin-top: -.5em;
+}
+.centrimetro{
+    font-size: .5em;
+    font-weight: 400;
+    margin-left: .2em;
+}
+.form-range {
+    padding: 0 1em;
+}
+input[type=range]::-webkit-slider-thumb {
+    background-color: #ff3366;
+}
+
+.sumaResta {
+    cursor: pointer;
+    background-color: #FF4C4F5E;
+    padding: .8em;
+    border-radius: 2em;
+    margin: 0 .3em;
+}
+
+.sexoDesactivo {
+    background-color: #7D2F2F33;
+}

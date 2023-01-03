@@ -1,0 +1,25 @@
+.fondoItem {
+    background-color: #ff111328;
+    height: 33em;
+    border-radius: 1em;
+    color: white;
+}
+
+.resultado {
+    color: #12BD45;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 700;    
+}
+
+.estiloNumero {
+    font-size: 6em;
+    font-weight: 700;
+    padding: .5em 0;
+}
+
+.interpretacion {
+    margin: .3em;
+    font-size: 2em;
+    text-align: center;
+}
